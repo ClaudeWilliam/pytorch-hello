@@ -2,4 +2,7 @@ torch = 2.9.0+cu126
 torchvision = 0.24.0+cu126
 matplotlib = 3.7.1
 numpy = 1.24.3
-#opencv-python
+tensorboard = 2.20.0
+#opencv-pythonte
+#mac和windows 不一样cuda版本也不一样这个依赖只是给出版本具体具体可以使用pip去下载
+#pip相关的命令写在README 文件
